@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__37-[MainContainerNode defragWithBlock:]_block_invoke_2:MainContainerNode.m">
+      </ContextState>
+      <ContextState
+         contextName = "__37-[MainContainerNode defragWithBlock:]_block_invoke:MainContainerNode.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MainContainerNode defragWithBlock:block:]:MainContainerNode.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "block">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainContainerNode clean]:MainContainerNode.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ball.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
